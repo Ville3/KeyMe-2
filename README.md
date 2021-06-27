@@ -1,2 +1,2 @@
 # KeyMe #2 made by papanyquil.
-Keygen made by me.
+* A basic keygen for KeyMe-2
